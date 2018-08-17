@@ -6,7 +6,7 @@ Frappe, pronounced _fruh-pay_, is a full stack, batteries-included, web framewor
 
 The key difference in Frappe compared to other frameworks is that **meta-data** is also treated as data and is used to build front-ends very easily. We believe in a monolithic architecture, so Frappe comes with almost everything you need to build a modern web application. It has a full blown Admin UI called the Desk that handles forms, navigation, lists, menus, permissions, file attachment and much more out of the box.
 
-Frappe is MIT Licensed and is hosted on [GitHub](https://github.com/frappe/frapppe).
+Frappe is MIT Licensed and is hosted on [GitHub](https://github.com/frappe/frappe).
 
 ## Getting Started
 
